@@ -1,6 +1,9 @@
-# \<phlo\>
+# \
 
+<phlo\>
+</phlo\>
 
+[![Build Status](https://travis-ci.org/PolymerElements/polymer-starter-kit.svg?branch=master)](https://travis-ci.org/PolymerElements/polymer-starter-kit)
 
 ## Install the Polymer-CLI
 
@@ -18,12 +21,9 @@ $ polymer serve
 $ polymer build
 ```
 
-This will create a `build/` folder with `bundled/` and `unbundled/` sub-folders
-containing a bundled (Vulcanized) and unbundled builds, both run through HTML,
-CSS, and JS optimizers.
+This will create a `build/` folder with `bundled/` and `unbundled/` sub-folders containing a bundled (Vulcanized) and unbundled builds, both run through HTML, CSS, and JS optimizers.
 
-You can serve the built versions by giving `polymer serve` a folder to serve
-from:
+You can serve the built versions by giving `polymer serve` a folder to serve from:
 
 ```
 $ polymer serve build/bundled
