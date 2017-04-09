@@ -1,0 +1,6 @@
+{
+  "name": "phlo",
+  "short_name": "phlo",
+  "start_url": "/",
+  "display": "standalone"
+}
